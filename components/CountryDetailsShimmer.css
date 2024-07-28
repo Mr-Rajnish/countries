@@ -1,0 +1,20 @@
+ .image{
+    height: 305px;
+    width: 400px;
+    background: rgb(193, 191, 191);
+    margin-left: 200px;
+}
+
+.details{
+    height: 30px;
+    width: 250px;
+    background-color: rgb(193, 191, 191);
+}
+
+.apply{
+    height: 20px;
+    width: 200px;
+    background-color: rgb(193, 191, 191);
+    margin-top: 10px;
+    padding: 10px;
+}
