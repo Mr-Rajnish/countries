@@ -1,10 +1,11 @@
 import {createRoot} from 'react-dom/client';
 import App from './app';
 import {createBrowserRouter, RouterProvider, } from "react-router-dom";
-import Home from './components/home';
+
 import Error from './components/Error';
 import CountryDetail from './components/CountryDetail';
 import Contact from './components/Contact';
+import Home from './components/Home';
 
   const router = createBrowserRouter([
     {
