@@ -1,4 +1,3 @@
-
 import SearchBar from "./SearchBar"
 import SearchMenu from "./SearchMenu"
 import CountriesList from "./CountriesList"
@@ -10,7 +9,7 @@ import { useTheme } from "../hooks/useTheme"
 
 
 
-export default function Home(){
+export default function Homeone(){
     const [Query,SetQuery]=useState('')
     const [isDark]=useTheme()
     const windowSize=useWindowSize()
