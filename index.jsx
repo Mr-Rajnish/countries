@@ -1,7 +1,7 @@
 import {createRoot} from 'react-dom/client';
 import App from './app';
 import {createBrowserRouter, RouterProvider, } from "react-router-dom";
-import Home from './components/home';
+import Home from './components/Homeone';
 import Error from './components/Error';
 import CountryDetail from './components/CountryDetail';
 import Contact from './components/Contact';
